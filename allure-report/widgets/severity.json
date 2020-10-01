@@ -1,0 +1,101 @@
+[ {
+  "uid" : "f208a75602c0ca9a",
+  "name" : "should click on the Jewelry & Watches button ",
+  "time" : {
+    "start" : 1601537057412,
+    "stop" : 1601537058928,
+    "duration" : 1516
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f94265644f37ec6",
+  "name" : "should contain link on shop by category menu item button and verify its clickable",
+  "time" : {
+    "start" : 1601537057306,
+    "stop" : 1601537057412,
+    "duration" : 106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fafe75826f93731",
+  "name" : "should search for the product and verify the search text value",
+  "time" : {
+    "start" : 1601496037434,
+    "stop" : 1601496040857,
+    "duration" : 3423
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "783f5ecec72318d1",
+  "name" : "should show the pahe header",
+  "time" : {
+    "start" : 1601537046724,
+    "stop" : 1601537046820,
+    "duration" : 96
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de4dcc1704798063",
+  "name" : "should show the header text",
+  "time" : {
+    "start" : 1601537046821,
+    "stop" : 1601537057306,
+    "duration" : 10485
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d82e1143cbdc5e1c",
+  "name" : "\"before all\" hook for \"should verify the watches category list\"",
+  "time" : {
+    "start" : 1601537035672,
+    "stop" : 1601537040857,
+    "duration" : 5185
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8051103e7dcd04d5",
+  "name" : "should verify the watches category list",
+  "time" : {
+    "start" : 1601537040858,
+    "stop" : 1601537046723,
+    "duration" : 5865
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "114b310e4911812c",
+  "name" : "should open the main url and verify the title",
+  "time" : {
+    "start" : 1601496035278,
+    "stop" : 1601496037433,
+    "duration" : 2155
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e7bddde7b0d61f47",
+  "name" : "should update the search category",
+  "time" : {
+    "start" : 1601496040883,
+    "stop" : 1601496041010,
+    "duration" : 127
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e09abfee3ae14a7",
+  "name" : "should redirect to a new page and verify the title",
+  "time" : {
+    "start" : 1601496040857,
+    "stop" : 1601496040882,
+    "duration" : 25
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

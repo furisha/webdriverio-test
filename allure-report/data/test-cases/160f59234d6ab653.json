@@ -1,0 +1,162 @@
+{
+  "uid" : "160f59234d6ab653",
+  "name" : "should show the pahe header",
+  "fullName" : "Watches Pages.should show the pahe header",
+  "historyId" : "354d696c65d3eb8ddaab2b2837073a49",
+  "time" : {
+    "start" : 1601535407054,
+    "stop" : 1601535407436,
+    "duration" : 382
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1601535407054,
+        "stop" : 1601535407062,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a426180acdab32cc",
+        "name" : "Response",
+        "source" : "a426180acdab32cc.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1601535407063,
+        "stop" : 1601535407081,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5c58d240e4421d0d",
+        "name" : "Request",
+        "source" : "5c58d240e4421d0d.json",
+        "type" : "application/json",
+        "size" : 59
+      }, {
+        "uid" : "6228f024d3f9eb5d",
+        "name" : "Response",
+        "source" : "6228f024d3f9eb5d.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1601535407087,
+        "stop" : 1601535407101,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5a591ec5195928f9",
+        "name" : "Request",
+        "source" : "5a591ec5195928f9.json",
+        "type" : "application/json",
+        "size" : 5306
+      }, {
+        "uid" : "ad0d8729f0a0391b",
+        "name" : "Response",
+        "source" : "ad0d8729f0a0391b.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1601535407103,
+        "stop" : 1601535407436,
+        "duration" : 333
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8ba3bc2e56617d92",
+        "name" : "Screenshot",
+        "source" : "8ba3bc2e56617d92.png",
+        "type" : "image/png",
+        "size" : 165568
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Watches Pages"
+  }, {
+    "name" : "testClass",
+    "value" : "Watches Pages"
+  }, {
+    "name" : "testMethod",
+    "value" : "should show the pahe header"
+  }, {
+    "name" : "package",
+    "value" : "Watches Pages"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "160f59234d6ab653.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

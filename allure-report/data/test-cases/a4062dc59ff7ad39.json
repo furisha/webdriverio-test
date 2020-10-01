@@ -1,0 +1,240 @@
+{
+  "uid" : "a4062dc59ff7ad39",
+  "name" : "should verify the watches category list",
+  "fullName" : "Watches Pages.should verify the watches category list",
+  "historyId" : "16f85503eb31a6da1ada37fb0763eaaa",
+  "time" : {
+    "start" : 1601496098219,
+    "stop" : 1601496103964,
+    "duration" : 5745
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1601496098221,
+        "stop" : 1601496098416,
+        "duration" : 195
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5e356a08c82cff93",
+        "name" : "Response",
+        "source" : "5e356a08c82cff93.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1601496098417,
+        "stop" : 1601496098544,
+        "duration" : 127
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6acf522419fad386",
+        "name" : "Request",
+        "source" : "6acf522419fad386.json",
+        "type" : "application/json",
+        "size" : 87
+      }, {
+        "uid" : "237c292cc9c5379f",
+        "name" : "Response",
+        "source" : "237c292cc9c5379f.json",
+        "type" : "application/json",
+        "size" : 548
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/element/edd1b8d5-0409-43d1-91bc-636f7bf9a4e6/text",
+      "time" : {
+        "start" : 1601496098555,
+        "stop" : 1601496098716,
+        "duration" : 161
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e5a1ce1cf771a890",
+        "name" : "Response",
+        "source" : "e5a1ce1cf771a890.json",
+        "type" : "application/json",
+        "size" : 19
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/element/fed17a29-6e69-4143-9ade-32a350d76cba/text",
+      "time" : {
+        "start" : 1601496098717,
+        "stop" : 1601496098740,
+        "duration" : 23
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "19e17af738378b1a",
+        "name" : "Response",
+        "source" : "19e17af738378b1a.json",
+        "type" : "application/json",
+        "size" : 30
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/element/eccb582a-fda6-4597-a581-35abdb21357e/text",
+      "time" : {
+        "start" : 1601496098741,
+        "stop" : 1601496098866,
+        "duration" : 125
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c09f941a625bb38a",
+        "name" : "Response",
+        "source" : "c09f941a625bb38a.json",
+        "type" : "application/json",
+        "size" : 9
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/element/e4ed746a-638f-4c52-a41b-c9099c8f1e04/text",
+      "time" : {
+        "start" : 1601496098866,
+        "stop" : 1601496098891,
+        "duration" : 25
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9e8494af8fb782b9",
+        "name" : "Response",
+        "source" : "9e8494af8fb782b9.json",
+        "type" : "application/json",
+        "size" : 23
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/element/07c3c174-895c-4c9c-9355-ceaac11ac037/text",
+      "time" : {
+        "start" : 1601496098892,
+        "stop" : 1601496098918,
+        "duration" : 26
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b32345db88ea318d",
+        "name" : "Response",
+        "source" : "b32345db88ea318d.json",
+        "type" : "application/json",
+        "size" : 19
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/element/885b41f7-dc52-4a17-915b-51157c7b9b5a/text",
+      "time" : {
+        "start" : 1601496098919,
+        "stop" : 1601496098946,
+        "duration" : 27
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9e49989755d11988",
+        "name" : "Response",
+        "source" : "9e49989755d11988.json",
+        "type" : "application/json",
+        "size" : 20
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 9,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 8
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Watches Pages"
+  }, {
+    "name" : "testClass",
+    "value" : "Watches Pages"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the watches category list"
+  }, {
+    "name" : "package",
+    "value" : "Watches Pages"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a4062dc59ff7ad39.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

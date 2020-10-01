@@ -1,0 +1,193 @@
+{
+  "9c551bb5d2e4bcb1261b844c55d2ab3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d82e1143cbdc5e1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601537035672,
+        "stop" : 1601537040857,
+        "duration" : 5185
+      }
+    } ]
+  },
+  "354d696c65d3eb8ddaab2b2837073a49" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "783f5ecec72318d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601537046724,
+        "stop" : 1601537046820,
+        "duration" : 96
+      }
+    } ]
+  },
+  "134354d998019ad3482385777b04e533" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fafe75826f93731",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496037434,
+        "stop" : 1601496040857,
+        "duration" : 3423
+      }
+    } ]
+  },
+  "fe7c1b0ff8677bad7366aa8a799d3b67" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "114b310e4911812c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496035278,
+        "stop" : 1601496037433,
+        "duration" : 2155
+      }
+    } ]
+  },
+  "16f85503eb31a6da1ada37fb0763eaaa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8051103e7dcd04d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601537040858,
+        "stop" : 1601537046723,
+        "duration" : 5865
+      }
+    } ]
+  },
+  "7db6ff2abf921ffb031bb25eaf839034" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e09abfee3ae14a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496040857,
+        "stop" : 1601496040882,
+        "duration" : 25
+      }
+    } ]
+  },
+  "a688ec35e55a093d19f7b1c3858b5787" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1f94265644f37ec6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601537057306,
+        "stop" : 1601537057412,
+        "duration" : 106
+      }
+    } ]
+  },
+  "63557db66c5f6233cc8488581e2e5d20" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "de4dcc1704798063",
+      "status" : "failed",
+      "statusDetails" : "Expect $(`span.b-pageheader__text`) to have text containing\n                \n                Expected: \"Shoes\"\n                Received: \"Watches, Parts & Accessories\"",
+      "time" : {
+        "start" : 1601537046821,
+        "stop" : 1601537057306,
+        "duration" : 10485
+      }
+    } ]
+  },
+  "48a8fb326046f4a59e1ce43a2bd7a374" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e7bddde7b0d61f47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496040883,
+        "stop" : 1601496041010,
+        "duration" : 127
+      }
+    } ]
+  },
+  "fd40d4a9c01ae50812cdfc5edbba7950" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f208a75602c0ca9a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601537057412,
+        "stop" : 1601537058928,
+        "duration" : 1516
+      }
+    } ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "uid" : "f208a75602c0ca9a",
+  "name" : "should click on the Jewelry & Watches button ",
+  "fullName" : "Watches Pages.should click on the Jewelry & Watches button ",
+  "historyId" : "fd40d4a9c01ae50812cdfc5edbba7950",
+  "time" : {
+    "start" : 1601537057412,
+    "stop" : 1601537058928,
+    "duration" : 1516
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1601537057412,
+        "stop" : 1601537057419,
+        "duration" : 7
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c8c1579e2bc19386",
+        "name" : "Response",
+        "source" : "c8c1579e2bc19386.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1601537057419,
+        "stop" : 1601537057430,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6c505d174ab34f94",
+        "name" : "Request",
+        "source" : "6c505d174ab34f94.json",
+        "type" : "application/json",
+        "size" : 75
+      }, {
+        "uid" : "5b96a5e46a94b749",
+        "name" : "Response",
+        "source" : "5b96a5e46a94b749.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/element/6dc5f6d0-a46f-4601-8092-05e42680ad8f/click",
+      "time" : {
+        "start" : 1601537057433,
+        "stop" : 1601537058892,
+        "duration" : 1459
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/url",
+      "time" : {
+        "start" : 1601537058893,
+        "stop" : 1601537058925,
+        "duration" : 32
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4309a1ec61d963cf",
+        "name" : "Response",
+        "source" : "4309a1ec61d963cf.json",
+        "type" : "application/json",
+        "size" : 55
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Watches Pages"
+  }, {
+    "name" : "testClass",
+    "value" : "Watches Pages"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Jewelry & Watches button "
+  }, {
+    "name" : "package",
+    "value" : "Watches Pages"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "176237983c187b41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535418443,
+        "stop" : 1601535420549,
+        "duration" : 2106
+      }
+    }, {
+      "uid" : "e877b937770556",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496254896,
+        "stop" : 1601496256542,
+        "duration" : 1646
+      }
+    }, {
+      "uid" : "7ec8f47cd84b4e7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496114318,
+        "stop" : 1601496115844,
+        "duration" : 1526
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f208a75602c0ca9a.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

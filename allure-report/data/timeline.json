@@ -1,0 +1,477 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "should open the main url and verify the title",
+      "uid" : "550e6c67032c1722",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601495168652,
+        "stop" : 1601495170304,
+        "duration" : 1652
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should show the pahe header",
+      "uid" : "783f5ecec72318d1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601537046724,
+        "stop" : 1601537046820,
+        "duration" : 96
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "dc5fd1e3095a8bc3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601495775683,
+        "stop" : 1601495775769,
+        "duration" : 86
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should contain link on shop by category menu item button and verify its clickable",
+      "uid" : "4a7a8f43f668619b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496254751,
+        "stop" : 1601496254896,
+        "duration" : 145
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should click on the Jewelry & Watches button ",
+      "uid" : "f208a75602c0ca9a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601537057412,
+        "stop" : 1601537058928,
+        "duration" : 1516
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should contain link on shop by category menu item button and verify its clickable",
+      "uid" : "cc78c6eca47378d4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535417863,
+        "stop" : 1601535418443,
+        "duration" : 580
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should contain link on shop by category menu item button and verify its clickable",
+      "uid" : "1f94265644f37ec6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601537057306,
+        "stop" : 1601537057412,
+        "duration" : 106
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should show the pahe header",
+      "uid" : "160f59234d6ab653",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535407054,
+        "stop" : 1601535407436,
+        "duration" : 382
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should show the header text",
+      "uid" : "ac9905a6a3c7994e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1601496104062,
+        "stop" : 1601496114125,
+        "duration" : 10063
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should show the header text",
+      "uid" : "b44d0c991fb1975b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1601496244711,
+        "stop" : 1601496254750,
+        "duration" : 10039
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should show the pahe header",
+      "uid" : "22119b5c27d37ac8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496103965,
+        "stop" : 1601496104061,
+        "duration" : 96
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "\"before all\" hook for \"should verify the watches category list\"",
+      "uid" : "d82e1143cbdc5e1c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601537035672,
+        "stop" : 1601537040857,
+        "duration" : 5185
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should contain link on shop by category menu item button and verify its clickable",
+      "uid" : "63f5bca437462e14",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496114126,
+        "stop" : 1601496114317,
+        "duration" : 191
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "ad433c721c7312ed",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601495172826,
+        "stop" : 1601495172879,
+        "duration" : 53
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should search for the product and verify the search text value",
+      "uid" : "af520c49fd88d68",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601495170305,
+        "stop" : 1601495172826,
+        "duration" : 2521
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "132a80e404d53331",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601495775622,
+        "stop" : 1601495775682,
+        "duration" : 60
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should show the header text",
+      "uid" : "a08858cf79dcd0c4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1601535407437,
+        "stop" : 1601535417863,
+        "duration" : 10426
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should click on the Jewelry & Watches button ",
+      "uid" : "176237983c187b41",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535418443,
+        "stop" : 1601535420549,
+        "duration" : 2106
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should verify the watches category list",
+      "uid" : "8051103e7dcd04d5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601537040858,
+        "stop" : 1601537046723,
+        "duration" : 5865
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should verify the watches category list",
+      "uid" : "a4062dc59ff7ad39",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496098219,
+        "stop" : 1601496103964,
+        "duration" : 5745
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should verify the watches category list",
+      "uid" : "15dd3a6f8132328c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1601496239400,
+        "stop" : 1601496244633,
+        "duration" : 5233
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should verify the watches category list",
+      "uid" : "d29787784abdcf60",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535400926,
+        "stop" : 1601535407054,
+        "duration" : 6128
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "\"before all\" hook for \"should verify the watches category list\"",
+      "uid" : "a6226101dcfae5bb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496093222,
+        "stop" : 1601496098219,
+        "duration" : 4997
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "114b310e4911812c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496035278,
+        "stop" : 1601496037433,
+        "duration" : 2155
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should show the header text",
+      "uid" : "de4dcc1704798063",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1601537046821,
+        "stop" : 1601537057306,
+        "duration" : 10485
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "\"before all\" hook for \"should verify the watches category list\"",
+      "uid" : "67cb55261f63b884",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496235367,
+        "stop" : 1601496239399,
+        "duration" : 4032
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should click on the Jewelry & Watches button ",
+      "uid" : "e877b937770556",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496254896,
+        "stop" : 1601496256542,
+        "duration" : 1646
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "e7bddde7b0d61f47",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496040883,
+        "stop" : 1601496041010,
+        "duration" : 127
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should open the main url and verify the title",
+      "uid" : "88d0fcc53b39df90",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601495771333,
+        "stop" : 1601495773097,
+        "duration" : 1764
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should show the pahe header",
+      "uid" : "96eea8fc3a35e7af",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496244635,
+        "stop" : 1601496244711,
+        "duration" : 76
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should click on the Jewelry & Watches button ",
+      "uid" : "7ec8f47cd84b4e7e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496114318,
+        "stop" : 1601496115844,
+        "duration" : 1526
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "\"before all\" hook for \"should verify the watches category list\"",
+      "uid" : "eb2fef013bbcfbc4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601535396094,
+        "stop" : 1601535400925,
+        "duration" : 4831
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "e09abfee3ae14a7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496040857,
+        "stop" : 1601496040882,
+        "duration" : 25
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should search for the product and verify the search text value",
+      "uid" : "8acb3bcac8831a55",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601495773098,
+        "stop" : 1601495775622,
+        "duration" : 2524
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "7b2c54fbc651e6b2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601495172879,
+        "stop" : 1601495172960,
+        "duration" : 81
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should search for the product and verify the search text value",
+      "uid" : "fafe75826f93731",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496037434,
+        "stop" : 1601496040857,
+        "duration" : 3423
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  } ]
+}

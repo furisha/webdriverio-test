@@ -1,0 +1,118 @@
+{
+  "uid" : "15dd3a6f8132328c",
+  "name" : "should verify the watches category list",
+  "fullName" : "Watches Pages.should verify the watches category list",
+  "historyId" : "16f85503eb31a6da1ada37fb0763eaaa",
+  "time" : {
+    "start" : 1601496239400,
+    "stop" : 1601496244633,
+    "duration" : 5233
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expected [] to deeply equal [ Array(6) ]",
+  "statusTrace" : "AssertionError: expected [] to deeply equal [ Array(6) ]\n                    at Context.<anonymous> (C:\\Users\\Furman\\Documents\\TestingProjects\\WebdriverIO\\webdriverio-test\\test\\specs\\/watches.js:17:49)\n                    at Context.executeSync (C:\\Users\\Furman\\Documents\\TestingProjects\\WebdriverIO\\webdriverio-test\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Users\\Furman\\Documents\\TestingProjects\\WebdriverIO\\webdriverio-test\\node_modules\\@wdio\\sync\\build\\index.js:80:70",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expected [] to deeply equal [ Array(6) ]",
+    "statusTrace" : "AssertionError: expected [] to deeply equal [ Array(6) ]\n                    at Context.<anonymous> (C:\\Users\\Furman\\Documents\\TestingProjects\\WebdriverIO\\webdriverio-test\\test\\specs\\/watches.js:17:49)\n                    at Context.executeSync (C:\\Users\\Furman\\Documents\\TestingProjects\\WebdriverIO\\webdriverio-test\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Users\\Furman\\Documents\\TestingProjects\\WebdriverIO\\webdriverio-test\\node_modules\\@wdio\\sync\\build\\index.js:80:70",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1601496239402,
+        "stop" : 1601496239572,
+        "duration" : 170
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "240eda3bcdd069ae",
+        "name" : "Response",
+        "source" : "240eda3bcdd069ae.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1601496239573,
+        "stop" : 1601496239605,
+        "duration" : 32
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "55fbbac93b31e4fa",
+        "name" : "Request",
+        "source" : "55fbbac93b31e4fa.json",
+        "type" : "application/json",
+        "size" : 87
+      }, {
+        "uid" : "b9ac670c5ca22d68",
+        "name" : "Response",
+        "source" : "b9ac670c5ca22d68.json",
+        "type" : "application/json",
+        "size" : 2
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Watches Pages"
+  }, {
+    "name" : "testClass",
+    "value" : "Watches Pages"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the watches category list"
+  }, {
+    "name" : "package",
+    "value" : "Watches Pages"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "15dd3a6f8132328c.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

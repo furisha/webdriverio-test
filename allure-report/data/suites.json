@@ -1,0 +1,143 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "eBay Product Search",
+    "children" : [ {
+      "name" : "should open the main url and verify the title",
+      "uid" : "114b310e4911812c",
+      "parentUid" : "d1f4bf6f5f7f2ea482f7d36306859a70",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496035278,
+        "stop" : 1601496037433,
+        "duration" : 2155
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should search for the product and verify the search text value",
+      "uid" : "fafe75826f93731",
+      "parentUid" : "d1f4bf6f5f7f2ea482f7d36306859a70",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496037434,
+        "stop" : 1601496040857,
+        "duration" : 3423
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should redirect to a new page and verify the title",
+      "uid" : "e09abfee3ae14a7",
+      "parentUid" : "d1f4bf6f5f7f2ea482f7d36306859a70",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496040857,
+        "stop" : 1601496040882,
+        "duration" : 25
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should update the search category",
+      "uid" : "e7bddde7b0d61f47",
+      "parentUid" : "d1f4bf6f5f7f2ea482f7d36306859a70",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601496040883,
+        "stop" : 1601496041010,
+        "duration" : 127
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    } ],
+    "uid" : "d1f4bf6f5f7f2ea482f7d36306859a70"
+  }, {
+    "name" : "Watches Pages",
+    "children" : [ {
+      "name" : "\"before all\" hook for \"should verify the watches category list\"",
+      "uid" : "d82e1143cbdc5e1c",
+      "parentUid" : "6913a6e9b4c836153db2f70599583a99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601537035672,
+        "stop" : 1601537040857,
+        "duration" : 5185
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should verify the watches category list",
+      "uid" : "8051103e7dcd04d5",
+      "parentUid" : "6913a6e9b4c836153db2f70599583a99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601537040858,
+        "stop" : 1601537046723,
+        "duration" : 5865
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should show the pahe header",
+      "uid" : "783f5ecec72318d1",
+      "parentUid" : "6913a6e9b4c836153db2f70599583a99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601537046724,
+        "stop" : 1601537046820,
+        "duration" : 96
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should show the header text",
+      "uid" : "de4dcc1704798063",
+      "parentUid" : "6913a6e9b4c836153db2f70599583a99",
+      "status" : "failed",
+      "time" : {
+        "start" : 1601537046821,
+        "stop" : 1601537057306,
+        "duration" : 10485
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should contain link on shop by category menu item button and verify its clickable",
+      "uid" : "1f94265644f37ec6",
+      "parentUid" : "6913a6e9b4c836153db2f70599583a99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601537057306,
+        "stop" : 1601537057412,
+        "duration" : 106
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should click on the Jewelry & Watches button ",
+      "uid" : "f208a75602c0ca9a",
+      "parentUid" : "6913a6e9b4c836153db2f70599583a99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601537057412,
+        "stop" : 1601537058928,
+        "duration" : 1516
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    } ],
+    "uid" : "6913a6e9b4c836153db2f70599583a99"
+  } ]
+}
