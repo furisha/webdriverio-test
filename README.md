@@ -1,4 +1,4 @@
-# How to Install Webdriverio-test with Allure reports
+# How to Install WebdriverIO-test with Allure reports
 
 - Clone Project to desired project folder
 - Navigate to project folder
